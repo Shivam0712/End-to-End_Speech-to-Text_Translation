@@ -1,0 +1,559 @@
+
+
+Time2019-05-08 08:06:28.720017:
+Epoch 1 Train Loss 2.6142 Dev Loss 0.0000
+Time taken for 1 epoch 239.2687544822693 sec
+
+Time2019-05-08 08:10:29.145162:
+Epoch 2 Train Loss 2.0424 Dev Loss 0.0000
+Time taken for 1 epoch 239.77234292030334 sec
+
+Time2019-05-08 08:14:29.281245:
+Epoch 3 Train Loss 1.9361 Dev Loss 0.0000
+Time taken for 1 epoch 239.6129126548767 sec
+
+Time2019-05-08 08:18:29.283007:
+Epoch 4 Train Loss 1.8561 Dev Loss 0.0000
+Time taken for 1 epoch 239.4216239452362 sec
+
+Time2019-05-08 08:22:29.908994:
+Epoch 5 Train Loss 1.7884 Dev Loss 0.0000
+Time taken for 1 epoch 240.106103181839 sec
+
+Time2019-05-08 08:26:29.608058:
+Epoch 6 Train Loss 1.7350 Dev Loss 0.0000
+Time taken for 1 epoch 239.0902078151703 sec
+
+Time2019-05-08 08:30:32.037957:
+Epoch 7 Train Loss 1.6899 Dev Loss 0.0000
+Time taken for 1 epoch 240.95770072937012 sec
+
+Time2019-05-08 08:34:32.968290:
+Epoch 8 Train Loss 1.6513 Dev Loss 0.0000
+Time taken for 1 epoch 240.4012382030487 sec
+
+Time2019-05-08 08:38:32.978267:
+Epoch 9 Train Loss 1.6157 Dev Loss 0.0000
+Time taken for 1 epoch 239.4645688533783 sec
+
+Time2019-05-08 08:42:33.811379:
+Epoch 10 Train Loss 1.5844 Dev Loss 0.0000
+Time taken for 1 epoch 240.30591487884521 sec
+
+Time2019-05-08 08:46:34.138305:
+Epoch 11 Train Loss 1.5534 Dev Loss 0.0000
+Time taken for 1 epoch 239.5954840183258 sec
+
+Time2019-05-08 08:50:36.267880:
+Epoch 12 Train Loss 1.5304 Dev Loss 0.0000
+Time taken for 1 epoch 240.86958074569702 sec
+
+Time2019-05-08 08:54:37.461979:
+Epoch 13 Train Loss 1.5069 Dev Loss 0.0000
+Time taken for 1 epoch 240.4815535545349 sec
+
+Time2019-05-08 08:58:38.852839:
+Epoch 14 Train Loss 1.4853 Dev Loss 0.0000
+Time taken for 1 epoch 240.66215682029724 sec
+
+Time2019-05-08 09:02:39.583073:
+Epoch 15 Train Loss 1.4685 Dev Loss 0.0000
+Time taken for 1 epoch 240.19124722480774 sec
+
+Time2019-05-08 09:06:41.237253:
+Epoch 16 Train Loss 1.4527 Dev Loss 0.0000
+Time taken for 1 epoch 240.92843747138977 sec
+
+Time2019-05-08 09:10:42.950701:
+Epoch 17 Train Loss 1.4370 Dev Loss 0.0000
+Time taken for 1 epoch 240.10187911987305 sec
+
+Time2019-05-08 09:14:43.394539:
+Epoch 18 Train Loss 1.4217 Dev Loss 0.0000
+Time taken for 1 epoch 239.75680780410767 sec
+
+Time2019-05-08 09:18:43.725791:
+Epoch 19 Train Loss 1.4090 Dev Loss 0.0000
+Time taken for 1 epoch 239.79384231567383 sec
+
+Time2019-05-08 09:22:43.095974:
+Epoch 20 Train Loss 1.3981 Dev Loss 0.0000
+Time taken for 1 epoch 238.75765013694763 sec
+
+Time2019-05-08 09:26:42.646601:
+Epoch 21 Train Loss 1.3889 Dev Loss 0.0000
+Time taken for 1 epoch 238.88373970985413 sec
+
+Time2019-05-08 09:30:43.607115:
+Epoch 22 Train Loss 1.3760 Dev Loss 0.0000
+Time taken for 1 epoch 239.69238328933716 sec
+
+Time2019-05-08 09:34:45.100862:
+Epoch 23 Train Loss 1.3677 Dev Loss 0.0000
+Time taken for 1 epoch 240.8745927810669 sec
+
+Time2019-05-08 09:38:48.146526:
+Epoch 24 Train Loss 1.3574 Dev Loss 0.0000
+Time taken for 1 epoch 242.3365399837494 sec
+
+Time2019-05-08 09:42:49.305817:
+Epoch 25 Train Loss 1.3505 Dev Loss 0.0000
+Time taken for 1 epoch 240.46238136291504 sec
+
+Time2019-05-08 09:46:50.142855:
+Epoch 26 Train Loss 1.3433 Dev Loss 0.0000
+Time taken for 1 epoch 240.15051984786987 sec
+
+Time2019-05-08 09:50:54.497846:
+Epoch 27 Train Loss 1.3362 Dev Loss 0.0000
+Time taken for 1 epoch 241.58372592926025 sec
+
+Time2019-05-08 09:54:55.895170:
+Epoch 28 Train Loss 1.3285 Dev Loss 0.0000
+Time taken for 1 epoch 240.70877075195312 sec
+
+Time2019-05-08 09:58:55.635323:
+Epoch 29 Train Loss 1.3191 Dev Loss 0.0000
+Time taken for 1 epoch 239.08935475349426 sec
+
+Time2019-05-08 10:02:56.145197:
+Epoch 30 Train Loss 1.3145 Dev Loss 0.0000
+Time taken for 1 epoch 239.88954138755798 sec
+
+Time2019-05-08 10:06:57.822317:
+Epoch 31 Train Loss 1.3084 Dev Loss 0.0000
+Time taken for 1 epoch 241.0382206439972 sec
+
+Time2019-05-08 10:10:59.334082:
+Epoch 32 Train Loss 1.3031 Dev Loss 0.0000
+Time taken for 1 epoch 239.79547953605652 sec
+
+Time2019-05-08 10:15:00.540223:
+Epoch 33 Train Loss 1.2977 Dev Loss 0.0000
+Time taken for 1 epoch 240.53262853622437 sec
+
+Time2019-05-08 10:19:02.333341:
+Epoch 34 Train Loss 1.2903 Dev Loss 0.0000
+Time taken for 1 epoch 240.97727465629578 sec
+
+Time2019-05-08 10:23:03.580689:
+Epoch 35 Train Loss 1.2884 Dev Loss 0.0000
+Time taken for 1 epoch 240.48781442642212 sec
+
+Time2019-05-08 10:27:04.414378:
+Epoch 36 Train Loss 1.2829 Dev Loss 0.0000
+Time taken for 1 epoch 240.21006155014038 sec
+
+Time2019-05-08 10:31:06.834102:
+Epoch 37 Train Loss 1.2781 Dev Loss 0.0000
+Time taken for 1 epoch 240.60505628585815 sec
+
+Time2019-05-08 10:35:07.639620:
+Epoch 38 Train Loss 1.2750 Dev Loss 0.0000
+Time taken for 1 epoch 240.14108037948608 sec
+
+Time2019-05-08 10:39:07.158354:
+Epoch 39 Train Loss 1.2697 Dev Loss 0.0000
+Time taken for 1 epoch 238.81578397750854 sec
+
+Time2019-05-08 10:43:07.833034:
+Epoch 40 Train Loss 1.2680 Dev Loss 0.0000
+Time taken for 1 epoch 240.02995014190674 sec
+
+Time2019-05-08 10:47:08.238585:
+Epoch 41 Train Loss 1.2630 Dev Loss 0.0000
+Time taken for 1 epoch 239.75815391540527 sec
+
+Time2019-05-08 10:51:10.564497:
+Epoch 42 Train Loss 1.2589 Dev Loss 0.0000
+Time taken for 1 epoch 240.8986828327179 sec
+
+Time2019-05-08 10:55:11.309331:
+Epoch 43 Train Loss 1.2554 Dev Loss 0.0000
+Time taken for 1 epoch 240.0949785709381 sec
+
+Time2019-05-08 10:59:13.766274:
+Epoch 44 Train Loss 1.2522 Dev Loss 0.0000
+Time taken for 1 epoch 241.73879146575928 sec
+
+Time2019-05-10 05:18:47.313049:
+Epoch 1 Train Loss 0.0482 Dev Loss 1.5619
+Time taken for 1 epoch 31.58670735359192 sec
+
++++++++++++++++++++++++++++++++++++++++++
+
+Time2019-05-10 06:37:56.654757:
+Epoch 1 Train Loss 1.7371 Dev Loss 1.5752
+Time taken for 1 epoch 529.369448184967 sec
+
+Time2019-05-10 06:46:48.858076:
+Epoch 2 Train Loss 1.5420 Dev Loss 1.5105
+Time taken for 1 epoch 531.5788061618805 sec
+
+Time2019-05-10 06:55:41.633339:
+Epoch 3 Train Loss 1.4923 Dev Loss 1.4789
+Time taken for 1 epoch 532.2014892101288 sec
+
+Time2019-05-10 07:04:33.325678:
+Epoch 4 Train Loss 1.4597 Dev Loss 1.4498
+Time taken for 1 epoch 531.1793537139893 sec
+
+Time2019-05-10 07:13:25.469811:
+Epoch 5 Train Loss 1.4338 Dev Loss 1.4334
+Time taken for 1 epoch 531.6433379650116 sec
+
+Time2019-05-10 07:22:14.592713:
+Epoch 6 Train Loss 1.4144 Dev Loss 1.4213
+Time taken for 1 epoch 528.5672650337219 sec
+
+Time2019-05-10 07:31:06.185208:
+Epoch 7 Train Loss 1.3975 Dev Loss 1.4131
+Time taken for 1 epoch 530.9150331020355 sec
+
+Time2019-05-10 07:39:57.175021:
+Epoch 8 Train Loss 1.3853 Dev Loss 1.4067
+Time taken for 1 epoch 530.510312795639 sec
+
+Time2019-05-10 07:48:47.659339:
+Epoch 9 Train Loss 1.3743 Dev Loss 1.4042
+Time taken for 1 epoch 529.9844205379486 sec
+
+Time2019-05-10 07:57:38.143599:
+Epoch 10 Train Loss 1.3653 Dev Loss 1.4026
+Time taken for 1 epoch 530.0329029560089 sec
+
+Time2019-05-10 08:06:28.266815:
+Epoch 11 Train Loss 1.3563 Dev Loss 1.4008
+Time taken for 1 epoch 529.6632213592529 sec
+
+Time2019-05-10 08:15:20.258195:
+Epoch 12 Train Loss 1.3493 Dev Loss 1.3984
+Time taken for 1 epoch 531.5083923339844 sec
+
+Time2019-05-10 08:24:11.982192:
+Epoch 13 Train Loss 1.3432 Dev Loss 1.3970
+Time taken for 1 epoch 531.2155890464783 sec
+
+Time2019-05-10 08:33:03.043364:
+Epoch 14 Train Loss 1.3368 Dev Loss 1.4003
+Time taken for 1 epoch 530.5686285495758 sec
+
+Time2019-05-10 08:41:53.244245:
+Epoch 15 Train Loss 1.3310 Dev Loss 1.3979
+Time taken for 1 epoch 529.901415348053 sec
+
+Time2019-05-10 08:50:46.471710:
+Epoch 16 Train Loss 1.3269 Dev Loss 1.3971
+Time taken for 1 epoch 533.0013918876648 sec
+
+Time2019-05-10 08:59:37.538512:
+Epoch 17 Train Loss 1.3220 Dev Loss 1.3977
+Time taken for 1 epoch 530.8413469791412 sec
+
+Time2019-05-10 09:08:33.991310:
+Epoch 18 Train Loss 1.3174 Dev Loss 1.4004
+Time taken for 1 epoch 536.0817806720734 sec
+
+Time2019-05-10 09:17:38.743240:
+Epoch 19 Train Loss 1.3139 Dev Loss 1.4016
+Time taken for 1 epoch 544.5014774799347 sec
+
+Time2019-05-10 09:26:41.825667:
+Epoch 20 Train Loss 1.3096 Dev Loss 1.4004
+Time taken for 1 epoch 542.8371849060059 sec
+
+Time2019-05-10 09:35:39.378912:
+Epoch 21 Train Loss 1.3067 Dev Loss 1.4017
+Time taken for 1 epoch 537.2879619598389 sec
+
+Time2019-05-10 09:44:33.056559:
+Epoch 22 Train Loss 1.3031 Dev Loss 1.4010
+Time taken for 1 epoch 533.4172897338867 sec
+
+Time2019-05-10 09:53:27.658832:
+Epoch 23 Train Loss 1.3004 Dev Loss 1.4014
+Time taken for 1 epoch 534.2484302520752 sec
+
+Time2019-05-10 10:02:22.456317:
+Epoch 24 Train Loss 1.2981 Dev Loss 1.4024
+Time taken for 1 epoch 534.491824388504 sec
+
+Time2019-05-10 10:11:24.200787:
+Epoch 25 Train Loss 1.2953 Dev Loss 1.4047
+Time taken for 1 epoch 541.5089666843414 sec
+
+Time2019-05-10 10:20:28.047633:
+Epoch 26 Train Loss 1.2923 Dev Loss 1.4059
+Time taken for 1 epoch 543.5758323669434 sec
+
+Time2019-05-10 10:29:23.941420:
+Epoch 27 Train Loss 1.2897 Dev Loss 1.4065
+Time taken for 1 epoch 535.6425654888153 sec
+
+Time2019-05-10 10:38:20.848015:
+Epoch 28 Train Loss 1.2877 Dev Loss 1.4061
+Time taken for 1 epoch 536.6552979946136 sec
+
+Time2019-05-10 10:47:14.715625:
+Epoch 29 Train Loss 1.2852 Dev Loss 1.4081
+Time taken for 1 epoch 533.552862405777 sec
+
+Time2019-05-10 10:56:06.878828:
+Epoch 30 Train Loss 1.2842 Dev Loss 1.4110
+Time taken for 1 epoch 531.9049026966095 sec
+
+Time2019-05-10 11:05:04.175571:
+Epoch 31 Train Loss 1.2813 Dev Loss 1.4102
+Time taken for 1 epoch 537.0590238571167 sec
+
+Time2019-05-10 11:13:57.871018:
+Epoch 32 Train Loss 1.2790 Dev Loss 1.4117
+Time taken for 1 epoch 533.3930776119232 sec
+
+Time2019-05-10 11:22:51.301393:
+Epoch 33 Train Loss 1.2765 Dev Loss 1.4130
+Time taken for 1 epoch 533.1847083568573 sec
+
+Time2019-05-10 11:31:46.241131:
+Epoch 34 Train Loss 1.2768 Dev Loss 1.4122
+Time taken for 1 epoch 534.7071750164032 sec
+
+Time2019-05-10 11:40:47.206351:
+Epoch 35 Train Loss 1.2738 Dev Loss 1.4146
+Time taken for 1 epoch 540.6549003124237 sec
+
+Time2019-05-10 11:49:51.331182:
+Epoch 36 Train Loss 1.2727 Dev Loss 1.4153
+Time taken for 1 epoch 543.8364372253418 sec
+
+Time2019-05-10 11:58:45.509212:
+Epoch 37 Train Loss 1.2718 Dev Loss 1.4181
+Time taken for 1 epoch 533.924741268158 sec
+
+Time2019-05-10 12:07:39.531313:
+Epoch 38 Train Loss 1.2693 Dev Loss 1.4172
+Time taken for 1 epoch 533.7737696170807 sec
+
+Time2019-05-10 12:16:35.777045:
+Epoch 39 Train Loss 1.2681 Dev Loss 1.4179
+Time taken for 1 epoch 536.0150380134583 sec
+
+Time2019-05-10 12:25:30.967296:
+Epoch 40 Train Loss 1.2664 Dev Loss 1.4199
+Time taken for 1 epoch 534.8830807209015 sec
+
+Time2019-05-10 12:34:24.319295:
+Epoch 41 Train Loss 1.2646 Dev Loss 1.4230
+Time taken for 1 epoch 533.0886182785034 sec
+
+Time2019-05-10 12:43:18.587653:
+Epoch 42 Train Loss 1.2638 Dev Loss 1.4234
+Time taken for 1 epoch 534.0211188793182 sec
+
+Time2019-05-10 12:52:14.974898:
+Epoch 43 Train Loss 1.2617 Dev Loss 1.4231
+Time taken for 1 epoch 536.1245934963226 sec
+
+Time2019-05-10 13:01:12.064512:
+Epoch 44 Train Loss 1.2619 Dev Loss 1.4230
+Time taken for 1 epoch 536.6721243858337 sec
+
+Time2019-05-10 13:10:06.695320:
+Epoch 45 Train Loss 1.2599 Dev Loss 1.4242
+Time taken for 1 epoch 534.367006778717 sec
+
+Time2019-05-10 13:19:02.829731:
+Epoch 46 Train Loss 1.2594 Dev Loss 1.4258
+Time taken for 1 epoch 535.8918671607971 sec
+
+Time2019-05-10 13:27:59.005056:
+Epoch 47 Train Loss 1.2577 Dev Loss 1.4277
+Time taken for 1 epoch 535.9083905220032 sec
+
+Time2019-05-10 13:36:56.702429:
+Epoch 48 Train Loss 1.2571 Dev Loss 1.4275
+Time taken for 1 epoch 537.3598148822784 sec
+
+Time2019-05-10 13:45:52.460952:
+Epoch 49 Train Loss 1.2563 Dev Loss 1.4269
+Time taken for 1 epoch 535.5423665046692 sec
+
+Time2019-05-10 13:54:48.437714:
+Epoch 50 Train Loss 1.2540 Dev Loss 1.4316
+Time taken for 1 epoch 535.7092702388763 sec
+
+Time2019-05-10 14:03:44.178655:
+Epoch 51 Train Loss 1.2536 Dev Loss 1.4304
+Time taken for 1 epoch 535.4747097492218 sec
+
+Time2019-05-10 14:12:39.609008:
+Epoch 52 Train Loss 1.2521 Dev Loss 1.4314
+Time taken for 1 epoch 535.1976463794708 sec
+
+Time2019-05-10 14:21:34.894581:
+Epoch 53 Train Loss 1.2512 Dev Loss 1.4316
+Time taken for 1 epoch 535.0121741294861 sec
+
+Time2019-05-10 14:30:30.912683:
+Epoch 54 Train Loss 1.2506 Dev Loss 1.4352
+Time taken for 1 epoch 535.7919719219208 sec
+
+Time2019-05-10 14:39:26.717232:
+Epoch 55 Train Loss 1.2493 Dev Loss 1.4355
+Time taken for 1 epoch 535.5638809204102 sec
+
+Time2019-05-10 14:48:22.301962:
+Epoch 56 Train Loss 1.2483 Dev Loss 1.4351
+Time taken for 1 epoch 535.2951226234436 sec
+
+Time2019-05-10 14:57:18.337285:
+Epoch 57 Train Loss 1.2477 Dev Loss 1.4364
+Time taken for 1 epoch 535.5626118183136 sec
+
+Time2019-05-10 15:06:15.175424:
+Epoch 58 Train Loss 1.2473 Dev Loss 1.4355
+Time taken for 1 epoch 536.4188091754913 sec
+
+Time2019-05-10 15:15:11.904288:
+Epoch 59 Train Loss 1.2471 Dev Loss 1.4369
+Time taken for 1 epoch 535.8373970985413 sec
+
+Time2019-05-10 15:24:04.738312:
+Epoch 60 Train Loss 1.2447 Dev Loss 1.4386
+Time taken for 1 epoch 532.5668563842773 sec
+
+Time2019-05-10 15:32:54.997623:
+Epoch 61 Train Loss 1.2443 Dev Loss 1.4413
+Time taken for 1 epoch 530.003011226654 sec
+
+Time2019-05-10 15:41:46.505598:
+Epoch 62 Train Loss 1.2430 Dev Loss 1.4402
+Time taken for 1 epoch 530.5315427780151 sec
+
+Time2019-05-10 15:50:37.775469:
+Epoch 63 Train Loss 1.2444 Dev Loss 1.4418
+Time taken for 1 epoch 531.0386252403259 sec
+
+Time2019-05-10 15:59:28.675436:
+Epoch 64 Train Loss 1.2413 Dev Loss 1.4432
+Time taken for 1 epoch 530.6876909732819 sec
+
+Time2019-05-10 16:08:21.133948:
+Epoch 65 Train Loss 1.2430 Dev Loss 1.4446
+Time taken for 1 epoch 532.2447080612183 sec
+
+Time2019-05-10 16:17:12.135127:
+Epoch 66 Train Loss 1.2418 Dev Loss 1.4448
+Time taken for 1 epoch 530.730898141861 sec
+
+Time2019-05-10 16:26:05.235135:
+Epoch 67 Train Loss 1.2406 Dev Loss 1.4445
+Time taken for 1 epoch 532.8095891475677 sec
+
+Time2019-05-10 16:34:57.754118:
+Epoch 68 Train Loss 1.2393 Dev Loss 1.4483
+Time taken for 1 epoch 532.0872201919556 sec
+
+Time2019-05-10 16:43:51.685817:
+Epoch 69 Train Loss 1.2398 Dev Loss 1.4459
+Time taken for 1 epoch 533.6759860515594 sec
+
+Time2019-05-10 16:52:44.278857:
+Epoch 70 Train Loss 1.2402 Dev Loss 1.4453
+Time taken for 1 epoch 532.3585641384125 sec
+
+Time2019-05-10 17:01:36.982226:
+Epoch 71 Train Loss 1.2382 Dev Loss 1.4471
+Time taken for 1 epoch 532.4745559692383 sec
+
+Time2019-05-10 17:10:28.773413:
+Epoch 72 Train Loss 1.2377 Dev Loss 1.4484
+Time taken for 1 epoch 531.564131975174 sec
+
+Time2019-05-10 17:19:21.587442:
+Epoch 73 Train Loss 1.2368 Dev Loss 1.4493
+Time taken for 1 epoch 532.363294839859 sec
+
+Time2019-05-10 17:28:13.648292:
+Epoch 74 Train Loss 1.2366 Dev Loss 1.4498
+Time taken for 1 epoch 531.805472612381 sec
+
+Time2019-05-10 17:37:06.983234:
+Epoch 75 Train Loss 1.2363 Dev Loss 1.4502
+Time taken for 1 epoch 532.601241350174 sec
+
+Time2019-05-10 17:46:01.180349:
+Epoch 76 Train Loss 1.2355 Dev Loss 1.4522
+Time taken for 1 epoch 533.9799056053162 sec
+
+Time2019-05-10 17:54:52.164892:
+Epoch 77 Train Loss 1.2343 Dev Loss 1.4526
+Time taken for 1 epoch 530.7516241073608 sec
+
+Time2019-05-10 18:03:45.051223:
+Epoch 78 Train Loss 1.2330 Dev Loss 1.4557
+Time taken for 1 epoch 532.6725151538849 sec
+
+Time2019-05-10 18:12:36.396620:
+Epoch 79 Train Loss 1.2335 Dev Loss 1.4540
+Time taken for 1 epoch 531.1307277679443 sec
+
+Time2019-05-10 18:21:28.501071:
+Epoch 80 Train Loss 1.2332 Dev Loss 1.4548
+Time taken for 1 epoch 531.7662055492401 sec
+
+Time2019-05-10 18:30:18.628738:
+Epoch 81 Train Loss 1.2322 Dev Loss 1.4573
+Time taken for 1 epoch 529.919392824173 sec
+
+Time2019-05-10 18:39:09.660043:
+Epoch 82 Train Loss 1.2333 Dev Loss 1.4582
+Time taken for 1 epoch 530.8103122711182 sec
+
+Time2019-05-10 18:48:01.142825:
+Epoch 83 Train Loss 1.2321 Dev Loss 1.4593
+Time taken for 1 epoch 531.0929570198059 sec
+
+Time2019-05-10 18:56:51.331083:
+Epoch 84 Train Loss 1.2313 Dev Loss 1.4583
+Time taken for 1 epoch 529.9464647769928 sec
+
+Time2019-05-10 19:05:41.610567:
+Epoch 85 Train Loss 1.2325 Dev Loss 1.4589
+Time taken for 1 epoch 530.0584073066711 sec
+
+Time2019-05-10 19:14:32.272358:
+Epoch 86 Train Loss 1.2309 Dev Loss 1.4609
+Time taken for 1 epoch 530.4586155414581 sec
+
+Time2019-05-10 19:23:21.672867:
+Epoch 87 Train Loss 1.2300 Dev Loss 1.4604
+Time taken for 1 epoch 529.1657159328461 sec
+
+Time2019-05-10 19:32:11.193050:
+Epoch 88 Train Loss 1.2303 Dev Loss 1.4609
+Time taken for 1 epoch 529.1744282245636 sec
+
+Time2019-05-10 19:41:07.511752:
+Epoch 89 Train Loss 1.2293 Dev Loss 1.4630
+Time taken for 1 epoch 536.0045952796936 sec
+
+Time2019-05-10 19:50:04.870622:
+Epoch 90 Train Loss 1.2300 Dev Loss 1.4641
+Time taken for 1 epoch 537.104907989502 sec
+
+Time2019-05-10 19:58:58.511865:
+Epoch 91 Train Loss 1.2305 Dev Loss 1.4641
+Time taken for 1 epoch 533.2992115020752 sec
+
+Time2019-05-10 20:08:01.394891:
+Epoch 92 Train Loss 1.2838 Dev Loss 1.4764
+Time taken for 1 epoch 542.6585645675659 sec
+
+Time2019-05-10 20:17:04.589510:
+Epoch 93 Train Loss 1.2536 Dev Loss 1.4606
+Time taken for 1 epoch 542.9534842967987 sec
+
+Time2019-05-10 20:26:04.368288:
+Epoch 94 Train Loss 1.2330 Dev Loss 1.4633
+Time taken for 1 epoch 539.4899497032166 sec
