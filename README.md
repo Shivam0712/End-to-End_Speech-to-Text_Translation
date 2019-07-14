@@ -85,6 +85,23 @@ Speech and translation was extracted from Audio and Subtitles of  20 Hindi Movie
 1. Teacher Forcing Ratio of 0.5 was used
 2. To save train time Softmax layer was not used during training
 
+## Results
+
+## Conclusions
+
+### Pros:
+1. With the help of Encoder-Attention-Decoder structure, End-to-End automatic speech translation model is able successfully outperform traditional ASR+MT model.
+
+### Cons:
+2. The uni-gram and sentence BLEU score of the model are still not good enough to be used in applications.
+3. Although with sufficient training data, the model is capable of learning utterances of frequent words from audio, it lacks in learning the grammar of sentences.
+
+### Future Work:
+1. Accumulate more training data.
+2. Use of Beam Decoder to improve performance.
+3. Use of word2vec for embedding of target sentences.
+
+
 
 
 
