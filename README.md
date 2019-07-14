@@ -72,6 +72,7 @@ Speech and translation was extracted from Audio and Subtitles of  20 Hindi Movie
 ### Final Vocab: 1322 Words; Total Occurrences: 135k Words; Audio-Text Pair: 28k; Max Audio Clip Length: 10 Seconds; Max Sentence Length: 17 Words.
 
 ## Model Architecture
+![model](https://github.com/Shivam0712/End-to-End_Speech-to-Text_Translation/blob/master/Architecture.png)
 
 ## Model Training Settings:
 
