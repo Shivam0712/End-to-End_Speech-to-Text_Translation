@@ -55,6 +55,37 @@ Used Augmented LibriSpeech corpus based on 1000+ hours of speech from Audiobooks
 ### Tied Multitask Learning for Neural Speech Translation ( Anastasopoulos et. al. 2018)
 Pre-training on high-resource speech recognition improves low-resource speech-to-text translation( Bansal et. al. 2019)
 
+## Data and Preprocessing
+
+Speech and translation was extracted from Audio and Subtitles of  20 Hindi Movies. (Collectively 20+Hrs of Audio, 9.5K Unique Words and 150K Occurences ).
+
+### Audio Pre-Processing:
+1. Audio was split to clips based on timestamps provided in subtitles file.
+2. Clip corresponding to Music was eliminated
+3. 80-Dimensional Mel Fbank, Delta, and Delta-Delta Features were extracted for windows of 25ms and Stride of 10ms.  (Decomposition of Audio based on frequency(Hz).)
+
+### Text Pre-Processing:
+1. Basic Cleaning: Removed Punctuations and Lowercase each character.
+2. Lemmatized words using NLTK package. (Vocab Reduction: 2k Words)
+3. Eliminated Words with Less than 10 Occurrences and replaced them with placeholder in the text.( Vocab Reduction: 6k words; Occurence Reduction: ~15k)
+
+### Final Vocab: 1322 Words; Total Occurrences: 135k Words; Audio-Text Pair: 28k; Max Audio Clip Length: 10 Seconds; Max Sentence Length: 17 Words.
+
+## Model Architecture
+
+## Model Training Settings:
+
+1. Train Set: 16.8k(60%) Dev Set: 5.6k(20%) Test Set: 5.6k(20%) 
+2. Baseline Model: Google Speech-to-Text(ASR) + Google Translate API(MT)
+3. Batch Size: 16 ; Learning Rate: 0.003 ; Epochs: 120
+4. Loss Criterion: Cross Entropy Loss
+5. Evaluation: Uni-Gram BLEU Score & Sentence BLEU Score
+
+### Please note: 
+1. Teacher Forcing Ratio of 0.5 was used
+2. To save train time Softmax layer was not used during training
+
+
 
 
 
