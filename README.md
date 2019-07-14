@@ -87,7 +87,9 @@ Speech and translation was extracted from Audio and Subtitles of  20 Hindi Movie
 2. To save train time Softmax layer was not used during training
 
 ## Results
+![model](https://github.com/Shivam0712/End-to-End_Speech-to-Text_Translation/blob/master/Results1.PNG)
 
+![model](https://github.com/Shivam0712/End-to-End_Speech-to-Text_Translation/blob/master/Results2.PNG)
 ## Conclusions
 
 ### Pros:
